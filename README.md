@@ -49,7 +49,7 @@
 
 ## 📫 Contact Me
 - 💼 LinkedIn: **https://www.linkedin.com/in/matthieu-griffonnet/**
-- 📧 Email: **matthieu.griffonne1@gmail.com**
+- 📧 Email: **matthieu.griffonnet1@gmail.com**
 - 🌐 Portfolio: **incoming**
 
 
