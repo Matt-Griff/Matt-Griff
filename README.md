@@ -32,11 +32,6 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&style=flat-square)
 
-### 📨 APIs 
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP-6E6E6E?style=for-the-badge&style=flat-square)
-
-
 ### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square)
@@ -44,7 +39,8 @@
 ![CI/CD](https://img.shields.io/badge/CI--CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&style=flat-square)
 ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-231F20?style=for-the-badge&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat-square)
-
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&style=flat-square)
+![SOAP](https://img.shields.io/badge/SOAP-6E6E6E?style=for-the-badge&style=flat-square)
 --- 
 
 ## 📫 Contact Me
