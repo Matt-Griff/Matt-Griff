@@ -46,7 +46,7 @@
 ## 📫 Contact Me
 - 💼 LinkedIn: **https://www.linkedin.com/in/matthieu-griffonnet/**
 - 📧 Email: **matthieu.griffonnet1@gmail.com**
-- 🌐 Portfolio: **https://www.matthieu.griffonnet.workers.dev**
+- 🌐 Portfolio: **https://matthieu.griffonnet.workers.dev**
 
 
 ⭐ Feel free to check out my repositories and leave a star if you like my work!
